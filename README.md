@@ -32,3 +32,8 @@
   - Học bằng ví dụ: Giải quyết các bài toán thực tế cụ thể, từ đơn giản đến phức tạp.
   - Dự án nhỏ: Giao cho học viên các dự án nhỏ để tự mình khám phá và áp dụng kiến thức.
   - Kết hợp lý thuyết và thực hành: Sẽ có các bài tập lý thuyết để củng cố kiến thức nền tảng, và các bài tập thực hành để áp dụng vào các tình huống cụ thể.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
