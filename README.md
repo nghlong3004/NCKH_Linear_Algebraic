@@ -3,7 +3,7 @@
 - [Sách Linear Algebra with Applications](https://www.britannica.com/science/linear-algebra)
 
 # Members
-* Le Bich Phuong - Bo mon Toan, khoa Khoa Hoc Co ban (Giang vien huong dan)
+* [Le Bich Phuong - Bo mon Toan, khoa Khoa Hoc Co ban (Giang vien huong dan)](https://humg.edu.vn/gioi-thieu/Pages/co-cau-to-chuc.aspx?ItemID=5911)
 * Nguyen Hoang Long - MSSV: 2321060041 (Truong nhom)
 * Nguyen Dai Luc - MSSV: 2321050118 (Thanh vien)
 * Vu Ngoc Linh - MSSV: 2421000002 (Thanh vien)
