@@ -2,7 +2,7 @@
 - [Math Libretexts](https://math.libretexts.org)
 - [Sách Linear Algebra with Applications](https://www.britannica.com/science/linear-algebra)
 - [Sách Elementary Linear Algebra Applications](https://industri.fatek.unpatti.ac.id/wp-content/uploads/2019/03/037-Elementary-Linear-Algebra-Applications-Version-Howard-Anton-Chris-Rorres-Edisi-1-2013.pdf)
-- [APPLICATION EXAMPLES OF LINEAR ALGEBRA IN THE FIELD OF ECONOMIC](https://topicsoneconom-bizmanagemt.com/images/WSEBM/WSEBM015.pdf)
+- [Applicatin Examples of Linear Algebra in the field of Economic](https://topicsoneconom-bizmanagemt.com/images/WSEBM/WSEBM015.pdf)
 
 # Members
 * [Le Bich Phuong - Bo mon Toan, khoa Khoa Hoc Co ban (Giang vien huong dan)](https://humg.edu.vn/gioi-thieu/Pages/co-cau-to-chuc.aspx?ItemID=5911)
