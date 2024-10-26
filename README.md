@@ -24,7 +24,7 @@
  * [Nâng cao kỹ năng tư duy toán học và kỹ năng phân tích của người học thông qua việc áp dụng kiến thức về ma trận, định thức, và hệ phương trình tuyến tính vào thực tiễn](#Three)
  
 ## Phân tích và tìm hiểu các bài toán thực tế trong các lĩnh vực khác nhau (khoa học, kỹ thuật, kinh tế) sử dụng ma trận, định thức và hệ phương trình tuyến tính
-  - Chưa cập nhật
+  - [Lý thuyết cơ bản về đại số tuyến tính](https://github.com/nghlong3004/NCKH/blob/main/Theory_Liner_Algebra.pdf)
 ## Áp dụng các công cụ toán học như ma trận và hệ phương trình tuyến tính để giải quyết các vấn đề trong quản lý, tối ưu hóa, phân tích dữ liệu, và mô hình hóa
   - Các công cụ (tools) dùng để giải: [Mathlab](https://www.mathworks.com/products/matlab.html), [Python](https://www.python.org/), [Phần mềm R](https://cran.r-project.org/)
   - [Giải các bài toán bằng tay](https://github.com/nghlong3004/NCKH/blob/main/Solution.pdf) 
