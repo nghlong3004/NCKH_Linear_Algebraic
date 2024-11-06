@@ -6,7 +6,7 @@
 
 # Members
 * [Le Bich Phuong - Bo mon Toan, khoa Khoa Hoc Co ban (Giang vien huong dan)](https://humg.edu.vn/gioi-thieu/Pages/co-cau-to-chuc.aspx?ItemID=5911)
-* Nguyen Hoang Long - MSSV: 2321060041 (Truong nhom)
+* [Nguyen Hoang Long - MSSV: 2321060041 (Truong nhom)](https://facebook.com/nghlong300405)
 * Nguyen Dai Luc - MSSV: 2321050118 (Thanh vien)
 * Vu Ngoc Linh - MSSV: 2421000002 (Thanh vien)
 * Nguyen Cao Thanh Huyen - MSSV: 2421000008 (Thanh vien)
