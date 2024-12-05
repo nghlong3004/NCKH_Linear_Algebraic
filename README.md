@@ -2,18 +2,18 @@
 - [Math Libretexts](https://math.libretexts.org)
 - [Sách Linear Algebra with Applications](https://www.britannica.com/science/linear-algebra)
 - [Sách Elementary Linear Algebra Applications](https://industri.fatek.unpatti.ac.id/wp-content/uploads/2019/03/037-Elementary-Linear-Algebra-Applications-Version-Howard-Anton-Chris-Rorres-Edisi-1-2013.pdf)
-- [Applicatin Examples of Linear Algebra in the field of Economic](https://topicsoneconom-bizmanagemt.com/images/WSEBM/WSEBM015.pdf)
+- [APPLICATION EXAMPLES OF LINEAR ALGEBRA IN THE FIELD OF ECONOMIC](https://topicsoneconom-bizmanagemt.com/images/WSEBM/WSEBM015.pdf)
 
 ## How to clone 
-- download git
-- initialized folder .git
-- git clone 
+- Step 1: Download git
+- Step 2: Initialized folder .git
+- Step 3: git clone https://github.com/nghlong3004/NCKH
 
 ## setup python (3.12)
 
 ```bash
 pip install numpy
-pip install numpy
+pip install pulp
 ```
 
 # Members
