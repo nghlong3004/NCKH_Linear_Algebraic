@@ -5,15 +5,15 @@
 - [APPLICATION EXAMPLES OF LINEAR ALGEBRA IN THE FIELD OF ECONOMIC](https://topicsoneconom-bizmanagemt.com/images/WSEBM/WSEBM015.pdf)
 
 ## How to clone 
-- download git
-- initialized folde .git
-- git clone 
+- Step 1: Download git
+- Step 2: Initialized folder .git
+- Step 3: git clone https://github.com/nghlong3004/NCKH
 
 ## setup python (3.12)
 
 ```bash
 pip install numpy
-pip install numpy
+pip install pulp
 ```
 
 # Members
