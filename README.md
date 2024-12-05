@@ -6,7 +6,7 @@
 
 ## How to clone 
 - download git
-- initialized folde .git
+- initialized folder .git
 - git clone 
 
 ## setup python (3.12)
