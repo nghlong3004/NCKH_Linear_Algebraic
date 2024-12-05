@@ -9,7 +9,7 @@
 - Step 2: Initialized folder "init git"
 - Step 3: git clone https://github.com/nghlong3004/NCKH
 
-## setup python (3.12)
+## Setup python (3.12)
 
 ```bash
 pip install numpy pulp
