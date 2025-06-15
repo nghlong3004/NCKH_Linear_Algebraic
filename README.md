@@ -24,11 +24,9 @@ Kho lưu trữ này đính kèm **báo cáo PDF**, mã nguồn **Python**, tài 
 ---
 
 ## Mục lục
-- [Tổng quan](#-tổng-quan)
 - [Cấu trúc](#-cấu-trúc)
-- [Thiết lập nhanh](#️-thiết-lập-nhanh)
+- [Cài đặt](#️-cài-đặt)
 - [Sử dụng](#-sử-dụng)
-- [requirements.txt có gì?](#-requirementstxt-có-gì)
 - [Tác giả](#-tác-giả)
 
 ---
