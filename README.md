@@ -2,10 +2,6 @@
 > *Undergraduate Research Project – Hanoi University of Mining and Geology (HUMG), 05 / 2025*
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-university-logo.png" alt="HUMG" width="120"/>
-</p>
-
-<p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"/></a>
   <img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="Python"/>
   <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build"/>
