@@ -1,12 +1,6 @@
 # **MỘT SỐ BÀI TOÁN THỰC TẾ CỦA MA TRẬN, ĐỊNH THỨC VÀ HỆ PHƯƠNG TRÌNH TUYẾN TÍNH**
 > *Undergraduate Research Project – Hanoi University of Mining and Geology (HUMG), 05 / 2025*
 
-<p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"/></a>
-  <img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build"/>
-</p>
-
 ---
 
 ## Tổng quan
@@ -22,8 +16,17 @@ Kho lưu trữ này đính kèm **báo cáo PDF**, mã nguồn **Python**, tài 
 > Mỗi chủ đề kèm mô tả toán học, code Python và hình ảnh trực quan.
 
 ---
+### Thành tích & Công bố
+| Mô tả | Thông tin |
+|-------|-----------|
+| **Giải thưởng** | **Giải Nhì Nghiên cứu Khoa học sinh viên** – HUMG 2025 (T13) |
+| **Bài báo** | **Lê Bích Phượng & Nguyễn Hoàng Long** (2025). *Phát triển năng lực giải quyết vấn đề cho sinh viên Trường Đại học Mỏ – Địa chất thông qua giảng dạy môn Đại số tuyến tính / Developing problem‑solving skills for students at HUMG through teaching Linear Algebra.* **Tạp chí Giáo dục & Xã hội (Journal of Education and Society)**, Số 166 (227), tháng 1/2025 (kì 1), ISSN 1859‑3917, trang 53‑60. |
+
+---
 
 ## Mục lục
+- [Tổng quan](#-Tổng-quan)
+- [Thành tích & Công bố](#-thành-tích--công-bố)
 - [Cấu trúc](#-cấu-trúc)
 - [Cài đặt](#️-cài-đặt)
 - [Sử dụng](#-sử-dụng)
@@ -79,15 +82,13 @@ python src/PageRank.py
 
 ---
 
-## Tác giả
+## 👥 Tác giả
+| Vai trò | Họ tên | Đơn vị |
+|---------|--------|--------|
+| **Trưởng nhóm** | Nguyễn Hoàng Long | Khoa Cơ điện – HUMG |
+| **GV Hướng dẫn** | GVC.TS Lê Bích Phượng | Khoa Khoa học Cơ bản – HUMG |
 
-| Vai trò | Họ tên | Lớp |
-|---------|--------|-----|
-| **Trưởng nhóm** | Nguyễn Hoàng Long | DCCDTD68B |
-| Thành viên | Nguyễn Đại Lực | DCCTCT68A |
-| Thành viên  | Vũ Ngọc Linh | DCCBHD69 |
-| Thành viên  | Nguyễn Cao Thanh Huyền | DCCBHD69 |
-| **GV Hướng dẫn** | GVC.TS Lê Bích Phượng | Bộ môn Toán – HUMG |
+*Các thành viên cộng tác được ghi nhận trong báo cáo dạng PDF.*
 
 Liên hệ: **nghlong3004@gmail.com**
 
