@@ -1,9 +1,5 @@
-# 🇻🇳 **MỘT SỐ BÀI TOÁN THỰC TẾ CỦA MA TRẬN, ĐỊNH THỨC VÀ HỆ PHƯƠNG TRÌNH TUYẾN TÍNH**
+# **MỘT SỐ BÀI TOÁN THỰC TẾ CỦA MA TRẬN, ĐỊNH THỨC VÀ HỆ PHƯƠNG TRÌNH TUYẾN TÍNH**
 > *Undergraduate Research Project – Hanoi University of Mining and Geology (HUMG), 05 / 2025*
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-university-logo.png" alt="HUMG" width="120"/>
-</p>
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"/></a>
@@ -37,9 +33,8 @@ Kho lưu trữ này đính kèm **báo cáo PDF**, mã nguồn **Python**, tài 
 
 ---
 
-## 📁 Cấu trúc
+## Cấu trúc
 ```text
-.
 ├── docs/                     # Báo cáo & slide & bài báo tạp trí
 │   ├── Bao_cao_NCKH_NguyenHoangLong.pdf
 │   ├── TomTatBaoCao.pdf
@@ -54,12 +49,12 @@ Kho lưu trữ này đính kèm **báo cáo PDF**, mã nguồn **Python**, tài 
 │   ├── HillCipher.py
 │   ├── PageRank.py
 │   └── SiMplexAlgorithm.py
-├── requirements.txt          # include python
-└── README.md                 # (tài liệu này)
+├── requirements.txt 
+└── README.md 
 ```
 ---
 
-## Thiết lập nhanh
+## Cài đặt
 ```bash
 # Clone repo
 git clone https://github.com/nghlong3004/applications-linear-algebraic.git
@@ -79,7 +74,7 @@ python src/PageRank.py
 | Script | Mục đích | Cách chạy nhanh |
 |--------|----------|-----------------|
 | `HillCipher.py` | Mã hóa / giải mã văn bản bằng **Hill Cipher** | `python src/HillCipher.py --help` |
-| `PageRank.py` | Tính xếp hạng PageRank cho đồ thị nhỏ | `python src/PageRank.py` |
+| `PageRank.py` | Tính xếp hạng PageRank | `python src/PageRank.py` |
 | `SiMplexAlgorithm.py` | Giải **Linear Programming** bằng phương pháp Simplex | `python src/SiMplexAlgorithm.py` |
 
 > Scripts ghi log ra console & file `log/output.log` (tùy cấu hình).
@@ -92,12 +87,12 @@ python src/PageRank.py
 |---------|--------|-----|
 | **Trưởng nhóm** | Nguyễn Hoàng Long | DCCDTD68B |
 | Thành viên | Nguyễn Đại Lực | DCCTCT68A |
-|  | Vũ Ngọc Linh | DCCBHD69 |
-|  | Nguyễn Cao Thanh Huyền | DCCBHD69 |
+| Thành viên  | Vũ Ngọc Linh | DCCBHD69 |
+| Thành viên  | Nguyễn Cao Thanh Huyền | DCCBHD69 |
 | **GV Hướng dẫn** | GVC.TS Lê Bích Phượng | Bộ môn Toán – HUMG |
 
 Liên hệ: **nghlong3004@gmail.com**
 
 ---
 
-<p align="center">💡 *“Mathematics is the language with which God has written the universe.”* — Galileo Galilei</p>
+<p align="center">*“Mathematics is the language with which God has written the universe.”* — Galileo Galilei</p>
